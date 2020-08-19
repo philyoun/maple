@@ -1,3 +1,7 @@
+이 repository는 [스타포스 확률 조작은 사실이다 - 괴물쥐의 아케인](https://www.youtube.com/watch?v=a1B24-midR0)를 제작하는데 있어,<br/>
+수집했던 데이터를 저장해둔 repository입니다.
+
+
 # maple
 monstrat on maple
 
